@@ -1,0 +1,2 @@
+# imagga
+Imagga auto-tagging
